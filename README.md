@@ -1,9 +1,13 @@
 # Homework 2 N-grams.
 ### Author  **Sree Teja Simha Gemaraju**
 ### Email    **Sreetejasimha.gemaraju@utdallas.edu**
-### Netid     **sxg177330**
+#### THIS IS AN ACAD. SUBMISSION. DO NOT COPY/DERIVE FROM THIS.
 
-##### Files in this project
+### About
+This is an implementation of NGrams with smoothing. More can be found here - 
+https://en.wikipedia.org/wiki/Bigram
+
+#### Files in this project
 -------------------------------------------------------------------------------------------------------------------------
 | File | Purpose |
 |-----------------|----------------------------------------------------------------------------------------|
